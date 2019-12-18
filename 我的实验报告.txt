@@ -6,3 +6,12 @@ git config -l查看配置情况
 git init 初始化
 git status 查看状态
 git add .
+git commit -m“......”上传到版本库
+Ctrl+L 清屏
+git branch +名字 查看分支
+git checkout 名字 切换分支
+git checkout -b 名字 删除分支
+git stash  隐藏
+git stash pop 取消隐藏
+git status list 隐藏列表
+git merge --no-ff-m"...." 合并分支
