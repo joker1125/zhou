@@ -1,0 +1,8 @@
+git 的相关指令作用
+git config --global user.name ”Your Name”
+git config --global user.email "email @exampie"
+配置信息
+git config -l查看配置情况
+git init 初始化
+git status 查看状态
+git add .
